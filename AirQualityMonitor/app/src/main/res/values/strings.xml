@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AirQualityMonitor</string>
+    <string name="city">City</string>
+    <string name="air_quality_index">Air Quality Index (AQI)</string>
+    <string name="chart_description">Will Show latest 30 sec record</string>
+    <string name="chart_label">Monitoring %s</string>
+</resources>
